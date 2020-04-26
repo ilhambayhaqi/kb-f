@@ -1,5 +1,5 @@
 # Tugas Kecerdasan Buatan F
-Nama 	: Muhammad Ilham Bayhaqi
+Nama 	: Muhammad Ilham Bayhaqi  
 NRP	: 05111840000069
 
 ## Tic Tac Toe (T3)
