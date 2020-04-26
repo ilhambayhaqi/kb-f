@@ -1,4 +1,7 @@
 # Tugas Kecerdasan Buatan F
+Nama 	: Muhammad Ilham Bayhaqi
+NRP	: 05111840000069
+
 ## Tic Tac Toe (T3)
 Pada tic tac toe yang dibuat, algoritma yang digunakan adalah minimax. Dimana bila kondisi player menang maka state tersebut bernilai -1, bila ai menang bernilai 1 dan bila seri maka bernilai 0.
 ```
