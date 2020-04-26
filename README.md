@@ -65,6 +65,6 @@ int minimax(string currState , bool isMax){
 	}
 }
 ```
-
+Pada minimax tersebut, ketika isMax == true maka akan membandingkan best saat ini dengan minimum pada setelahnnya untuk dicari nilai maksimalnya. Begitu pula bila isMax == false maka akan mencari nilai minimum dari best saat ini dengan maksimum pada state didalamnya.
 
 ## 4 Queen (T4)
